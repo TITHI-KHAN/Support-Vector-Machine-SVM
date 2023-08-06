@@ -145,7 +145,7 @@ Linearly separable data is a scenario in which two classes of data points can be
 
 Linear inseparable data, also known as non-linearly separable data, is a scenario in which no straight line (in 2D) or hyperplane (in higher dimensions) can separate the two classes perfectly. The data points of both classes are mixed together, making it impossible to draw a single linear decision boundary. In such cases, a linear classifier like the standard linear SVM cannot accurately classify the data. The figure below illustrates an example of linear inseparable data:
 
-![Linear Inseparable Data](https://upload.wikimedia.org/wikipedia/commons/thumb/1/1b/Svm_intro.svg/600px-Svm_intro.svg.png)
+![image](https://github.com/TITHI-KHAN/Support-Vector-Machine-SVM/assets/65033964/5a814d24-cd2c-41a6-b8be-49d2b88e261a)
 
 **3. Non-linearly Separable Data:**
 
