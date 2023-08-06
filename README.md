@@ -1,1 +1,2 @@
-# SVM
+# SVM (Support Vector Machine)
+
